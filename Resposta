@@ -1,0 +1,12 @@
+Link da API escolhida 
+https://api.thedogapi.com/v1/breeds
+
+github que a dupla efetuou a pesquisa
+https://github.com/AndenForshaw/theCatApi-website
+
+Escolhemos essa API por ser algo que gostamos, achamos interessante e tem informações relevantes a serem passadas.
+
+O parâmetro escolhido foi o GET que a gente olhou e utilizou em aula.
+
+Uma API, traz informações sobre cachorros, vai ajudar a saber as necessiades dos animais para uma futura empresa que pensa em investir.
+ Vai exibir informações sobre cachorros, raça, tempo de vida e imagem.
